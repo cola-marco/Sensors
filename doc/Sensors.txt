@@ -1,0 +1,15 @@
+ID: 1
+Name: Temperature-1
+Type: Temperature
+Value: 21.6975
+----
+ID: 2
+Name: Humidity-2
+Type: Humidity
+Value: 65.4747
+----
+ID: 3
+Name: Dust-3
+Type: Dust
+Value: 21.8582
+----
