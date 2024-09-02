@@ -38,7 +38,7 @@ Assicurati di avere i seguenti strumenti installati sul tuo sistema per compilar
 2. **Compila il progetto con qt**:
    
     ```c
-    qmake
+    qmake6
     make
 3. **Esegui l'applicazione**:
    
